@@ -1,0 +1,18 @@
+<form>
+    Name:
+    <input type="text" name="name" />
+    <input type="submit" name="Submit" />
+</form>
+
+
+
+
+
+In this module we learned how to work with forms using React.
+We learned about controlled and uncontrolled components.
+We used the fetch method to update an employee with a specific ID.
+The PATH method is used to convert the data to JSON.
+Controlled components are the most common way to handle forms.
+Uncontrolled components use refs to manage forms.
+Form Validation can be handled with HTML5 validation, or libraries like Formik or React Hook Form.
+Yup is also used Formik for schema-based form validation.
